@@ -16,5 +16,6 @@ export function renderProfile(userData, container) {
                     <h4>✨ Seguindo</h4>
                     <span>${userData.following}</span>
                 </div>
-            </div>`;
+            </div>
+        </div>`;
 }
